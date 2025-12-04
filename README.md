@@ -1,2 +1,2 @@
 ## Hello World!
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MedNourS&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MedNourS&hide=contribs,prs)
