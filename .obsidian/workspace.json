@@ -183,19 +183,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "dd86e88c1a2cb45e",
+  "active": "1948e2d2b8d9bf32",
   "lastOpenFiles": [
+    "img/text-editors/vscode.svg",
+    "img/text-editors/intellij_idea.svg",
+    "img/text-editors/webstorm.svg",
+    "img/text-editors/pycharm.svg",
+    "img/text-editors/neovim.svg",
+    "img/text-editors/android_studio.svg",
+    "img/text-editors/obsidian.svg",
+    "img/text-editors",
+    "efas.md",
     "README.md",
-    "img/c_sharp.svg",
+    "extras",
+    "img/frameworks-engines-tools/git.svg",
+    "img/frameworks-engines-tools/godot.svg",
+    "img/frameworks-engines-tools/flask.svg",
+    "img/frameworks-engines-tools/unity.svg",
+    "img/frameworks-engines-tools",
+    "img/languages",
     "img.md",
-    "img/typescript.svg",
-    "img/swift.svg",
-    "img/python.svg",
-    "img/labview.svg",
-    "img/javascript.svg",
-    "img/java.svg",
-    "img/html.svg",
-    "img/css.svg",
     "img"
   ]
 }
