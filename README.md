@@ -1,3 +1,3 @@
 ## Hello World!
 
-![C#](obsidian://open?vault=MedNourS&file=img%2Fc_sharp.svg)
+![C#](https://github.com/MedNourS/MedNourS/blob/main/img/c_sharp.svg)
