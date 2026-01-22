@@ -1,5 +1,6 @@
 # Hello World!
 
+
 ## Who am I?
 My name is Mohamed Nour Sabir (though I prefer being called Nour). I am currently a 1st year Computer Science and Technology student at Dawson, with a passion of learning all about Web Development and Cybersecurity. I have also participated in multiple hackathons and game jams in order to hone my skills in programming!
 ## What have I worked on?
@@ -17,6 +18,7 @@ My name is Mohamed Nour Sabir (though I prefer being called Nour). I am currentl
 	<img src="https://github.com/MedNourS/MedNourS/blob/main/img/languages/sqlite.svg" alt="SQLite" height="50">
 	<img src="https://github.com/MedNourS/MedNourS/blob/main/img/languages/postgres.svg" alt="PostgreSQL" height="50">
 </div>
+
 ## What frameworks, engines and tools do I use?
 <div>
 	<img src="https://github.com/MedNourS/MedNourS/blob/main/img/frameworks-engines-tools/unity.svg" alt="Unity" height="50">
@@ -26,6 +28,7 @@ My name is Mohamed Nour Sabir (though I prefer being called Nour). I am currentl
 	<img src="https://github.com/MedNourS/MedNourS/blob/main/img/frameworks-engines-tools/express.svg" alt="Express" height="50">
 	<img src="https://github.com/MedNourS/MedNourS/blob/main/img/frameworks-engines-tools/godot.svg" alt="Godot" height="50">
 </div>
+
 ## What text editors do I use?
 <div>
 	<img src="https://github.com/MedNourS/MedNourS/blob/main/img/text-editors/vscode.svg" alt="Visual Studio Code" height="50">
