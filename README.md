@@ -7,6 +7,7 @@ My name is Mohamed Nour Sabir (though I prefer being called Nour). I am currentl
 - <a href="https://conuhacks-x.devpost.com">ConUHacks X</a> @ Concordia University
 - <a href="https://itch.io/jam/brackeys-15">Brackeys Game Jam 2026.1</a>
 - <a href="https://code-quest-champ.devpost.com">Code Quest 2026</a> @ Champlain College Saint-Lambert
+- <a href="https://vanierhacks.net/">VanierHacks 2026</a> @ Vanier College
 
 ## What languages do I use?
 <div>
