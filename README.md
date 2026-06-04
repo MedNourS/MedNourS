@@ -1,7 +1,7 @@
 # Hello World!
 ## Who am I?
 My name is Mohamed Nour Sabir (though I prefer being called Nour). I am currently a 1st year Computer Science and Technology student at Dawson, with a passion of learning all about Web Development and Cybersecurity. I have also participated in multiple hackathons and game jams in order to hone my skills in programming!
-## What have I worked on?
+## What competitions have I participated in?
 - <a href="https://www.mentormates.ai/events/HackDecouverte-2025/">HackDécouverte 2025</a> @ Concordia University
 - <a href="https://itch.io/jam/dingo-game-jam-2026">Dingo Game Jam 2026</a> @ Vanier College
 - <a href="https://conuhacks-x.devpost.com">ConUHacks X</a> @ Concordia University
