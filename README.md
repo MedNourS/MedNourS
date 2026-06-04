@@ -33,14 +33,3 @@ My name is Mohamed Nour Sabir (though I prefer being called Nour). I am currentl
 	<a href="#"><img src="https://github.com/MedNourS/MedNourS/blob/main/img/frameworks-engines-tools/express.svg" alt="Express" height="50"></a>
 	<a href="#"><img src="https://github.com/MedNourS/MedNourS/blob/main/img/frameworks-engines-tools/godot.svg" alt="Godot" height="50"></a>
 </div>
-
-## What text editors do I use?
-<div>
-	<a href="#"><img src="https://github.com/MedNourS/MedNourS/blob/main/img/text-editors/vscode.svg" alt="Visual Studio Code" height="50"></a>
-	<a href="#"><img src="https://github.com/MedNourS/MedNourS/blob/main/img/text-editors/android_studio.svg" alt="Android Studio" height="50"></a>
-	<a href="#"><img src="https://github.com/MedNourS/MedNourS/blob/main/img/text-editors/obsidian.svg" alt="Obsidian" height="50"></a>
-	<a href="#"><img src="https://github.com/MedNourS/MedNourS/blob/main/img/text-editors/neovim.svg" alt="Neovim" height="50"></a>
-	<a href="#"><img src="https://github.com/MedNourS/MedNourS/blob/main/img/text-editors/intellij_idea.svg" alt="IntelliJ IDEA" height="50"></a>
-	<a href="#"><img src="https://github.com/MedNourS/MedNourS/blob/main/img/text-editors/pycharm.svg" alt="PyCharm" height="50"></a>
-	<a href="#"><img src="https://github.com/MedNourS/MedNourS/blob/main/img/text-editors/webstorm.svg" alt="WebStorm" height="50"></a>
-</div>
