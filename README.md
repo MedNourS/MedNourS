@@ -22,6 +22,7 @@ My name is Mohamed Nour Sabir (though I prefer being called Nour). I am currentl
 	<a href="#"><img src="https://github.com/MedNourS/MedNourS/blob/main/img/languages/typescript.svg" alt="TypeScript" height="50"></a>
 	<a href="#"><img src="https://github.com/MedNourS/MedNourS/blob/main/img/languages/sqlite.svg" alt="SQLite" height="50"></a>
 	<a href="#"><img src="https://github.com/MedNourS/MedNourS/blob/main/img/languages/postgres.svg" alt="PostgreSQL" height="50"></a>
+	<a href="#"><img src="https://github.com/MedNourS/MedNourS/blob/main/img/languages/php.svg" alt="PHP" height="50"></a>
 </div>
 
 ## What frameworks, engines and tools do I use?
@@ -32,4 +33,5 @@ My name is Mohamed Nour Sabir (though I prefer being called Nour). I am currentl
 	<a href="#"><img src="https://github.com/MedNourS/MedNourS/blob/main/img/frameworks-engines-tools/react.svg" alt="React" height="50"></a>
 	<a href="#"><img src="https://github.com/MedNourS/MedNourS/blob/main/img/frameworks-engines-tools/express.svg" alt="Express" height="50"></a>
 	<a href="#"><img src="https://github.com/MedNourS/MedNourS/blob/main/img/frameworks-engines-tools/godot.svg" alt="Godot" height="50"></a>
+	<a href="#"><img src="https://github.com/MedNourS/MedNourS/blob/main/img/frameworks-engines-tools/symfony.svg" alt="Symfony" height="50"></a>
 </div>
