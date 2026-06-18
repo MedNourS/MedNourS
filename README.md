@@ -34,4 +34,5 @@ My name is Mohamed Nour Sabir (though I prefer being called Nour). I am currentl
 	<a href="#"><img src="https://github.com/MedNourS/MedNourS/blob/main/img/frameworks-engines-tools/express.svg" alt="Express" height="50"></a>
 	<a href="#"><img src="https://github.com/MedNourS/MedNourS/blob/main/img/frameworks-engines-tools/godot.svg" alt="Godot" height="50"></a>
 	<a href="#"><img src="https://github.com/MedNourS/MedNourS/blob/main/img/frameworks-engines-tools/symfony.svg" alt="Symfony" height="50"></a>
+	<a href="#"><img src="https://github.com/MedNourS/MedNourS/blob/main/img/frameworks-engines-tools/figma.svg" alt="Figma" height="50"></a>
 </div>
