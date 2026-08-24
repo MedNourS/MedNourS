@@ -42,7 +42,7 @@ My name is Mohamed Nour Sabir (though I prefer being called Nour). I am currentl
 	<img src="https://raw.githubusercontent.com/MedNourS/MedNourS/main/img/frameworks-engines-tools/figma.svg" alt="Figma" height="50">
 </div>
 
-## What do I build with?
+## What editors do I use?
 <div>
 	<img src="https://raw.githubusercontent.com/MedNourS/MedNourS/main/img/text-editors/vscode.svg" alt="VS Code" height="50">
 	<img src="https://raw.githubusercontent.com/MedNourS/MedNourS/main/img/text-editors/neovim.svg" alt="Neovim" height="50">
